@@ -6,7 +6,7 @@ A simple "To Do List" project built using HTML, CSS, and JavaScript. Stay organi
 
 ## Live Demo
 
-Check out the live version of the "To Do List" project [here](https://yourusername.github.io/todolist/).
+Check out the live version of the "To Do List" project [here](https://mounikakuncha14.github.io/To-Do-List/).
 
 ## Table of Contents
 
@@ -47,7 +47,7 @@ The JavaScript code in this project enables the following functionalities:
 
 ## Installation
 
-No installation is required. Simply visit the [live version](https://yourusername.github.io/todolist/) in your web browser.
+No installation is required. Simply visit the [live version](https://mounikakuncha14.github.io/To-Do-List/) in your web browser.
 
 ## Contributing
 
